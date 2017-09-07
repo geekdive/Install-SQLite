@@ -12,3 +12,7 @@ Enter ".help" for usage hints.
 Connected to a transient in-memory database.
 Use ".open FILENAME" to reopen on a persistent database.
 sqlite>
+
+Untuk keluar dari program
+## sqlite> .quit
+root@x:/home/rpl# 
